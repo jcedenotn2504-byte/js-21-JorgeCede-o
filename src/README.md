@@ -9,6 +9,8 @@ Clonar repositorio
 Ejeutar  ```NPM Install ``` para reconstruir los modulos de node 
 3.-
 Correr server ``` npm run dev ```
+4.-
+Abrir el proyecto en : ``` http://localhost:xxxx```
 
 
 # Produccion
